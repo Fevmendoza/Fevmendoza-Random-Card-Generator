@@ -1,1 +1,25 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background: green;
+}
+.card {
+  width: 300px;
+  height: 400px;
+  background: #fff;
+  border-radius: 15px;
+  margin: 0 auto;
+}
+.number {
+  font-size: 8em;
+}
+.icon1 {
+  font-size: 4em;
+}
+.icon2 {
+  font-size: 4em;
+  transform: rotate(180deg);
+}
+.textRed {
+  color: red;
+}
